@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Khowar Folktales</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="story_title">Story Title</string>
+    <string name="_2024_09_01">2024-09-01</string>
+    <string name="bookmark_icon">bookmark_icon</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="stories">Stories</string>
+    <string name="watch_later">Watch Later</string>
+    <string name="watch_later_content_goes_here">Watch Later content goes here</string>
+    <string name="date_icon" />
+    <string name="toolbar_back_button">toolbar_back_button</string>
+    <string name="views_icon">views_icon</string>
+    <string name="download">Downloads</string>
+    <string name="video_thumbnail">video_thumbnail</string>
+    <string name="clear_watch_later">clear_watch_later</string>
+    <string name="clear_downloads">clear_downloads</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_stories"
+        android:icon="@drawable/ic_story"
+        android:title="@string/stories" />
+    <item
+        android:id="@+id/nav_watch_later"
+        android:icon="@drawable/ic_watch_later"
+        android:title="@string/watch_later" />
+
+    <item
+        android:id="@+id/download_video"
+        android:icon="@drawable/download_offline"
+        android:title="@string/download" />
+</menu>

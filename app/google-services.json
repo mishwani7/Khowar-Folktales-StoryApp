@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1015028197671",
+    "firebase_url": "https://khowar-folktales-app-default-rtdb.firebaseio.com",
+    "project_id": "khowar-folktales-app",
+    "storage_bucket": "khowar-folktales-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015028197671:android:f4395d08055f74532b2102",
+        "android_client_info": {
+          "package_name": "com.khowarfolktales.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbefFbNOEgMszhvO0Uotv6OjQqI1vi87Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
